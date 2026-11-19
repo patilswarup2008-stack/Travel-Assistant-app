@@ -10,8 +10,8 @@ load_dotenv()
 client = genai.Client()
 
 st.set_page_config(
-    page_title="Travel_assistant"
-    page_icon="🌏"
+    page_title="Travel_assistant",
+    page_icon="🌏",
 )
 def set_background(path):
     with open(path, "rb") as f:
