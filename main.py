@@ -33,7 +33,7 @@ st.markdown(
 )
 
 st.title(":violet[🌏TRAVEL ASSISTANT]",text_alignment="center")
-set_background("other\image.jpg")
+set_background("image.jpg")
 st.header("Hello this is your Travel Assistant Lets plan your trip together",text_alignment="center")
 st.subheader("👉Do you want Me to select your Travel Location ")
 
